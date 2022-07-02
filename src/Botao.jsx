@@ -3,7 +3,7 @@ function Botao({butao}) {
 
     return(
       
-        <p className="centro">{butao}</p>
+        <button className="centro">{butao}</button>
 
     );
 }
